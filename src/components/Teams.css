@@ -1,0 +1,82 @@
+.teams {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1.5rem auto;
+    height: 100vh;
+    justify-content: flex-start;
+}
+
+.teams-title {
+    font-family: 'Roboto';
+    font-size: 32px;
+    font-weight: 500;
+    padding: 16px 48px;
+    color: #002C59;
+}
+
+.teams-content {
+    display: flex;
+    font-family: 'Roboto';
+    padding: 16px 48px;
+    color: #002C59;
+    /* border: 1px solid green; */
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.team-member {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #CCC;
+    padding: 1rem;
+    flex: 1 0 25%;
+}
+
+.team-member>.profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.team-member .name {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.team-member .designation {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.team-member .skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 0.5rem;
+    row-gap: 0.2rem;
+    padding: 1rem 0rem;
+    /* border: 1px solid yellow; */
+}
+
+.team-member .skill {
+    font-size: 10px;
+    border: 1px solid;
+    border-radius: 12px;
+    padding: 0.2rem 0.5rem;
+    background-color: silver;
+}
+
+@media (max-width: 480px) {
+    .teams {
+        font-size: 120%;
+    }
+
+    .teams-content {
+        flex-direction: column;
+        overflow-x: hidden;
+        overflow-y: auto;
+        height: 100% !important;
+    }
+}
