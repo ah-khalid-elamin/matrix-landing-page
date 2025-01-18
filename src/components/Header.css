@@ -69,14 +69,16 @@
     .nav-menu-brand {
         flex-direction: row;
         justify-content: flex-start;
+        /* align-items: ; */
         column-gap: 3rem;
     }
-/* 
+
     .nav-menu-brand .title {
         flex: 1 0 auto;
-        justify-content: start;
-    } */
-
+    }
+    .menu-toggle {
+        margin: 0rem 1rem;
+    }
     .nav-menu-links {
         flex-direction: column;
         margin: 1rem 2rem;

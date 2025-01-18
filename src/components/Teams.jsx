@@ -22,7 +22,7 @@ const TeamMember = ({name, designation, skills })=> {
 export default function Teams(){
     return (
         <div  id="teams" className="teams" style={styles}>
-            <h1 className="teams-title">Meet our team</h1>
+            <h1 className="teams-title">Meet our Team</h1>
             <div className="teams-content">
                 <TeamMember name="Mr. Khalid Elnour"  designation="Founder and CEO" skills={['Programme Development', 'Management']} />
                 <TeamMember name="Dr. Manar Abdelrahman"  designation="Researcher" skills={['Researcher', 'Bio Statistics', 'Statistical Analysis', 'Data Science']} />
