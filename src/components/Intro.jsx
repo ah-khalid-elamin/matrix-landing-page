@@ -1,16 +1,18 @@
 import React from "react";
-import styles from './Intro.css'
+import { useLanguage } from "../context/LanguageContext";
 
 export default function Intro() {
+
+    const { translations, isLoading } = useLanguage();
+    
     return (
-        <div id="about-us" className="intro" style={styles}>
-            <h1 className="intro-title">MATRIX: Pioneering Excellence in Development Services</h1>
-            <div className="intro-content">
-                <p>Founded in 2006 under the Sudan Business Names Ordinance, MATRIX is a trailblazing development organization dedicated to elevating national, regional, and international development services. With a multidisciplinary team of experts.
-
-                    MATRIX excels in bridging capacity gaps through meticulous research, strategic planning, and seamless program implementation.</p>
-
-                <p> Our commitment to global human development is reflected in our evidence-based research on macroeconomic policies and operational efficiency. By infusing professionalism and excellence into every project.</p>
+        <div id="about-us" className="my-4 p-4 md:p-8 md:m-8 lg:m-12 xl:m-12">
+            <h1 className="p-8 md:px-8 md:py-8 text-2xl md:text-2xl lg:text-4xl font-bold text-gray-600 tracking-wider">
+                {translations.introTitle}
+            </h1>
+            <div className="px-8 my-4 text-lg md:text-lg lg:text-xl  xl:text-2xl h-auto text-gray-500 text-pretty md:text-justify">
+                <p className="pt-4">{translations.introBodyFirstParagraph}</p>
+                <p className="pt-4">{translations.introBodySecondParagraph}</p>
             </div>
         </div>
     )
