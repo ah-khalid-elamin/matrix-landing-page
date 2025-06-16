@@ -1,0 +1,200 @@
+{
+    "headerBrandName": "Matrix",
+    "headerHome": "Home",
+    "headerAbout": "About",
+    "headerCoreCompetences": "Core Competences",
+    "headerKnowledgeAreas": "Knowledge Areas",
+    "headerClients": "Clients",
+    "headerContactUs": "Contact Us",
+    "headerEnglish": "English",
+    "headerArabic": "Arabic",
+    "slider": {
+        "next": "Next",
+        "previous": "Previous"
+    },
+    "slides": {
+        "slideOne": {
+            "title": "The Future of Your Business Starts Now: Explore Our Services",
+            "description": "Boost Productivity, Enhance Security, and Transform Your Business. Elevate Your Tech Game—Explore Our Services Today."
+        },
+        "slideTwo": {
+            "title": "Grow Your Online Presence",
+            "description": "Reach audiences via online channels—social media, search engines, and more. Cost-effective, measurable, and tailored to your brand."
+        },
+        "slideThree": {
+            "title": "Turn Data into Your Competitive Advantage",
+            "description": "Decode complexity, optimize processes, and drive informed decisions. Transform data into strategy"
+        }
+    },
+    "introTitle": "MATRIX: Pioneering Excellence in Development Services",
+    "introBodyFirstParagraph": "Founded in 2006 under the Sudan Business Names Ordinance, MATRIX is a trailblazing development organization dedicated to elevating national, regional, and international development services. With a multidisciplinary team of experts. MATRIX excels in bridging capacity gaps through meticulous research, strategic planning, and seamless program implementation.",
+    "introBodySecondParagraph": "Our commitment to global human development is reflected in our evidence-based research on macroeconomic policies and operational efficiency. By infusing professionalism and excellence into every project.",
+    "coreCompetencesTitle": "Core Competences",
+    "integratedDevelopmentManagement": "Integrated Development Management",
+    "dataDrivenInsights": "Data-Driven Insights",
+    "sustainableResourceManagement": "Sustainable Resource Management",
+    "environmentalResearches": "Environmental Researches",
+    "policyResearchAndCapacityBuilding": "Policy Research and Capacity Building",
+    "ICTForDevelopment": "ICT for Development",
+    "knowledgeAreas": "Knowledge Areas",
+    "clusterOne": "Cluster 1: Development Economics and Programme Management",
+    "clusterOneItemOne": "Economic Restructuring",
+    "clusterOneItemTwo": "Economic and Social Infrastructure Rehabilitation Programming",
+    "clusterOneItemThree": "Technology, Energy, and Industrial Programming",
+    "clusterOneItemFour": "Rural Development",
+    "clusterOneItemFive": "Development Finance",
+    "clusterTwo": "Cluster 2: Data and Analytics",
+    "clusterThree": "Cluster 3: Information Technology",
+    "clusterFour": "Cluster 4: Policy Research and Capacity Building",
+    "clusterFive": "Cluster 5: Environment and Natural Resource Management",
+    "clusterSix": "Cluster 6: Climate Change",
+    "clusterTwoItemOne": "Statistical Analysis and Research.",
+    "clusterTwoItemTwo": "Surveys.",
+    "clusterTwoItemThree": "Data Collection.",
+    "clusterTwoItemFour": "Data Engineering.",
+    "clusterTwoItemFive": "Machine Learning.",
+    "clusterThreeItemOne": "Web Development",
+    "clusterThreeItemTwo": "Mobile Development.",
+    "clusterThreeItemThree": "Graphic Design.",
+    "clusterThreeItemFour": "UI/UX Design",
+    "clusterThreeItemFive": "Databases Design.",
+    "clusterFourItemOne": "Macro-Economic policy research.",
+    "clusterFourItemTwo": "Climate Change policy.",
+    "clusterFourItemThree": "Sectoral economic policies.",
+    "clusterFourItemFour": "Knowledge and learning development, and human growth.",
+    "clusterFourItemFive": "Institutional design and organizational governance.",
+    "clusterFiveItemOne": "Environmental governance at national, regional, state, and local levels.",
+    "clusterFiveItemTwo": "Natural Resources & Bio-diversity conservation, protection and regeneration.",
+    "clusterFiveItemThree": "Natural Resources Mapping, and Resource-based conflict prevention.",
+    "clusterFiveItemFour": "Environmental impact assessment and monitoring.",
+    "clusterSixItemOne": "Climate Change Policies, Strategies and Action Planning, vis-a-vis Mitigation and Adaptation.",
+    "clusterSixItemTwo": "Climate Change Finance.",
+    "clusterSixItemThree": "COPs preparations, follow-up and monitoring, reporting on National commitments and obligations.",
+    "clusterSixItemFour": "Establishing Environmental Observatories for Urban & Rural Planning.",
+    "teamsTitle": "Meet Our Team",
+    "teamMemberOne": {
+        "name": "Mr. Khalid Elnour",
+        "designation": "Founder and CEO",
+        "skills": [
+            "Economic Analysis",
+            "Management",
+            "Climate Change",
+            "Financial Integrity",
+            "Anti-Corruption",
+            "Capacity Building",
+            "Policy Research",
+            "Post-Conflict Recovery",
+            "Rural Development",
+            "Academic Research"
+        ]
+    },
+    "teamMemberTwo": {
+        "name": "Prof. Manar Abdul-Rahman",
+        "designation": "Professor of Bio-Statistics",
+        "skills": [
+            "Bio-Statistics",
+            "Epidemiology",
+            "Data Management",
+            "Statistical Analysis",
+            "STATA",
+            "Survey Design & Analysis"
+        ]
+    },
+    "teamMemberThree": {
+        "name": "Ahmed Abdelgadir",
+        "designation": "Software Engineer",
+        "skills": [
+            "Web Development",
+            "Backend Engineer",
+            "UI Design",
+            "Mobile Development",
+            "DevOps",
+            "Cloud Computing",
+            "Software Analysis",
+            "Software Design"
+        ]
+    },
+    "teamMemberFour": {
+        "name": "Prof. Abbas Doka",
+        "designation": "Soil & Land Resources Expert",
+        "skills": [
+            "Natural Resource Management",
+            "Land & Soil",
+            "Desertification Monitoring",
+            "Geospatial",
+            "Remote Sensing",
+            "Sustainable Development",
+            "National Biodiversity"
+        ]
+    },
+    "teamMemberFive": {
+        "name": "Prof. Abdelrahaman Khidir",
+        "designation": "Climate Change & Dryland Agriculture Expert",
+        "skills": [
+            "Climate Change",
+            "Adaptation",
+            "Mitigation",
+            "Dryland Farming",
+            "Research",
+            "Project Management",
+            "Policy & Strategy Development",
+            "Capacity Building"
+        ]
+    },
+    "teamMemberSix": {
+        "name": "Dr. Ismail Elgizouli",
+        "designation": "Climate Change & Energy Policy Expert",
+        "skills": [
+            "Climate Change",
+            "Energy",
+            "Planning & Strategy",
+            "Sustainable Development",
+            "Environmental Management",
+            "Capacity Building",
+            "Adaption",
+            "Mitigation",
+            "Scientific Research"
+        ]
+    },
+    "teamMemberSeven": {
+        "name": "Prof. Abass Hamed",
+        "designation": "Associate Professor",
+        "skills": [
+            "Land Degradation",
+            "Soil Science",
+            "Geospatial Technology",
+            "Land Use/Land Cover (LULC) Analysis",
+            "Project Leadership",
+            "Academic Research & Supervision",
+            "Technical Training",
+            "Environmental Data Interpretation"
+        ]
+    },
+    "teamMemberEight": {
+        "name": "Prof. Nada Hamza",
+        "designation": "Professor",
+        "skills": [
+            "Agricluture",
+            "Policies",
+            "Bio-Technology",
+            "Bio-Safety",
+            "Agro-Biodiversity",
+            "Environment",
+            "Climate Change Adaptation"
+        ]
+    },
+    "clients": "Our Clients",
+    "footer": {
+        "brandName": "Matrix",
+        "addressLabel": "Address",
+        "address": "Khartoum, Sudan",
+        "usefulLinks": "Useful Links",
+        "about": "About Us",
+        "coreCompetences": "Core Competences",
+        "knowledgeAreas": "Knowledge Areas",
+        "meetOurTeam": "Meet Our Team",
+        "clients": "Clients",
+        "socialLabel": "Get Social with us"
+    }
+
+}
