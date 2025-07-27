@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.887af8d9.js",
+    "main.css": "static/css/main.31d6cfe0.css",
+    "main.js": "static/js/main.887af8d9.js",
     "static/js/310.04062e12.chunk.js": "/static/js/310.04062e12.chunk.js",
     "static/js/174.5e40e9e5.chunk.js": "/static/js/174.5e40e9e5.chunk.js",
     "static/media/Nile-River-State-Logo.png": "/static/media/Nile-River-State-Logo.8962494883a8855578e7.png",
@@ -18,7 +18,7 @@
     "main.887af8d9.js.map": "/static/js/main.887af8d9.js.map"
   },
   "entrypoints": [
-    "./static/css/main.31d6cfe0.css",
-    "./static/js/main.887af8d9.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.887af8d9.js"
   ]
 }
