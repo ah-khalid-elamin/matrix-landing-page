@@ -14,11 +14,11 @@
     "static/media/logo.png": "/static/media/logo.cd5c9526f64574895899.png",
     "static/media/Kassala-State-Logo.png": "/static/media/Kassala-State-Logo.929df9f6407ecc7d8778.png",
     "static/media/NCR-logo.png": "/static/media/NCR-logo.21b801108f2a4a42dad8.png",
-    "index.html": "/index.html",
+    "index.html": "index.html",
     "main.887af8d9.js.map": "/static/js/main.887af8d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.887af8d9.js"
+    "./static/css/main.31d6cfe0.css",
+    "./static/js/main.887af8d9.js"
   ]
 }
