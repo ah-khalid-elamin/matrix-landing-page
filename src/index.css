@@ -1,18 +1,37 @@
-@layer theme, base, components, utilities;
-@import "tailwindcss/theme.css" layer(theme);
-@import "tailwindcss/preflight.css" layer(base);
-@import "tailwindcss/utilities.css" layer(utilities);
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800;900&family=Inter:wght@400;500;600;700;800;900&display=swap');
+@import 'tailwindcss';
 
-@theme {
-  --font-open-sans: "Open Sans", sans-serif;
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
 }
 
+@layer base {
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
 
-.scrollbar-hide {
-  scrollbar-width: none; /* Firefox */
-  -ms-overflow-style: none; /* IE/Edge */
-  
-  &::-webkit-scrollbar {
-    display: none; /* Chrome/Safari/Webkit */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    background: #ffffff;
+    color: #0B1120;
+  }
+
+  html[lang="ar"] body {
+    font-family: 'Cairo', sans-serif;
+  }
+}
+
+@layer utilities {
+  .container {
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
